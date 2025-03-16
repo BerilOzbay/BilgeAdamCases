@@ -1,0 +1,22 @@
+[
+  {
+    "name": "fatih",
+    "surname":"alkan",
+    "title": "Yonetici"
+  },
+  {
+    "name": "mehmet",
+    "surname":"alkan",
+    "title": "Memur"
+  },
+  {
+    "name": "ramis",
+    "surname":"yüksel",
+    "title": "Memur"
+  },
+  {
+    "name": "beril",
+    "surname":"özbay",
+    "title": "Yonetici"
+  }
+]
